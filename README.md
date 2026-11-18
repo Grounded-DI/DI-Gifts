@@ -1,6 +1,6 @@
 # DI-Gifts
 
-This repository preserves Logic Runner Lite prompt and GPT setup materials.
+Logic Runner Lite specifies a four-stage response flow and a structured prompt format. This repository provides the prompt, an explanation, and GPT setup notes.
 
 ## Contents
 
@@ -12,6 +12,4 @@ This repository preserves Logic Runner Lite prompt and GPT setup materials.
 
 ## What the repository demonstrates
 
-The files preserve the intended prompt structure and a corresponding GPT setup procedure. They let a reviewer inspect the requested response format directly.
-
-The repository contains prompt and setup text, not runtime code, test results, or replay evidence. The prompt specifies intended behavior; it does not by itself demonstrate deterministic or drift-free outputs.
+Review the prompt to see the exact requested response format. The setup notes describe configuration, while runtime behavior would require separate execution evidence.
